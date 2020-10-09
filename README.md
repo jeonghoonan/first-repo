@@ -21,7 +21,7 @@ And I think git is very cool.
 
 ```java
 import random
-
+ 
 def get_lotto():
     picked = random.randint(1,45)
     print(picked)
